@@ -8,5 +8,9 @@ To complete this assignment, edit this README by doing the following,
 
 Once your are done, save this file.
 
-Test
-sslkadfj;adfjalkdfjaskdjfasdlkfjaslkdfjasdfj;alksd
+-Victoria Sabus
+-I am a competitive dancer
+-I am setting up a VEX Robotics team here at Timberline
+-I went to a cybersecurity camp this summer and learned a ton about coding and cybersecurity
+-I hope to learn even more this year when it comes to coding, I want to become more confident when it comes to coding and developing software
+
